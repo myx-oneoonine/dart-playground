@@ -91,10 +91,3 @@ lib/generated_plugin_registrant.dart
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
 # End of https://www.toptal.com/developers/gitignore/api/dart,flutter
-
-secureApp/secure_app/ios
-secureApp/secure_app/android
-bluring_app/bluring_app/android
-bluring_app/bluring_app/ios
-secureApp/secure2/android
-secureApp/secure2/ios

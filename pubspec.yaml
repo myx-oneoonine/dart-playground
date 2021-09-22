@@ -1,0 +1,6 @@
+name: my_app
+dependencies:
+
+  intl: ^0.15.8
+  test: any
+  async: any
